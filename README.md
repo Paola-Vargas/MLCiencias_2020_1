@@ -3,4 +3,5 @@
 ### El salón del curso es 101 lunes, miercoles y viernes. Taller de finanzas Martes y Jueves
 
 1. Subí Temario
-2. Subí Presentación
+2. Subí la Presentación
+3. Hay un pequeño manual de github de instalación y también para anaconda, para los diferentes sistemas operativos LINUX/UNIX/WINDOWS.
