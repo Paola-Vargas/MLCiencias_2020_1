@@ -2,5 +2,5 @@
 
 ### El salón del curso es 101 lunes, miercoles y viernes. Taller de finanzas Martes y Jueves
 
-1. subí Temario
+1. Subí Temario
 2. Subí Presentación
