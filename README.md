@@ -9,4 +9,4 @@
 
 
 Biblíografía 
-![Cosos](cosos-computoso.jpg)
+![Cosos](cosos-computosos.jpg)
