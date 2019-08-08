@@ -8,6 +8,6 @@
 4. Mañana jueves es con profesor y es importante su asistencia, ya que veremos los tres problemas fundamentales del aprendizaje estadístico.
 
 
-Biblíografía Computacional
+Biblíografia para la parte Computacional
 
 ![](cosos-computosos.jpg)
