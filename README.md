@@ -10,7 +10,8 @@
 5. Al rato a las 10 haremos la instalación de los ambientes y configuración. Por favor bajar los archivos 
 https://drive.google.com/open?id=1v7HAcT5N59GXjQ-5xg1cBVa6hZvrrYN1
 6. Link de descarga
-https://www.arangodb.com/download-major/
+https://www.arangodb.com/download-major/  
+y escoger NSIS packages- Server 3.5.0
 
 
 ![](cosos-computosos.jpg)
