@@ -9,7 +9,8 @@
 5 Subí dataframes que deberá de bajar y una carpeta de con manual de python
 5. Al rato a las 10 haremos la instalación de los ambientes y configuración. Por favor bajar los archivos 
 https://drive.google.com/open?id=1v7HAcT5N59GXjQ-5xg1cBVa6hZvrrYN1
-
+6. Link de descarga
+https://www.arangodb.com/download-major/
 
 
 ![](cosos-computosos.jpg)
