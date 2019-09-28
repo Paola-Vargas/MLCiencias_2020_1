@@ -13,5 +13,7 @@ https://drive.google.com/open?id=1v7HAcT5N59GXjQ-5xg1cBVa6hZvrrYN1
 https://www.arangodb.com/download-major/  
 y escoger NSIS packages- Server 3.5.0
 
+NOS VEMOS MAÑANA A LAS 11 EN EL SALON 
+DEL NUEVO EDIFICIO. NO FALTEN
 
 ![](cosos-computosos.jpg)
