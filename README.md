@@ -1,3 +1,5 @@
+## Mañana sabado 26 de octubre habrá clases en el salón 101 del nuevo edificio a las 10:45 am, no falten.
+
 ## Bienvenidos al repositorio del curso. Aquí encontrarás todo lo relevante al Seminario de Estadística.
 
 ### El salón del curso es 101 lunes, miercoles y viernes. Taller de finanzas Martes y Jueves
@@ -13,7 +15,6 @@ https://drive.google.com/open?id=1v7HAcT5N59GXjQ-5xg1cBVa6hZvrrYN1
 https://www.arangodb.com/download-major/  
 y escoger NSIS packages- Server 3.5.0
 
-NOS VEMOS MAÑANA A LAS 11 EN EL SALON 
-DEL NUEVO EDIFICIO. NO FALTEN
+
 
 ![](cosos-computosos.jpg)
