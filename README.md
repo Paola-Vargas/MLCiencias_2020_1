@@ -1,4 +1,4 @@
-## Mañana sabado 26 de octubre habrá clases en el salón 101 del nuevo edificio a las 10:45 am, no falten.
+## Mañana sabado 7 de Noviembre habrá clases en el salón 101 del nuevo edificio a las 10:51 am, no falten.
 
 ## Bienvenidos al repositorio del curso. Aquí encontrarás todo lo relevante al Seminario de Estadística.
 
